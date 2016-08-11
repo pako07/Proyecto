@@ -1,5 +1,5 @@
 <?php
-define('_DB_SERVER_', 'localhost');
+define('_DB_SERVER_', 'mysql.hostinger.mx');
 define('_DB_NAME_', 'u682739787_end');
 define('_DB_USER_', 'u682739787_pk');
 define('_DB_PASSWD_', '123456g');
