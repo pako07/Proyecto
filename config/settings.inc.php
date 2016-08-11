@@ -1,8 +1,8 @@
 <?php
 define('_DB_SERVER_', 'localhost');
-define('_DB_NAME_', 'DB1');
-define('_DB_USER_', 'root');
-define('_DB_PASSWD_', '');
+define('_DB_NAME_', 'u682739787_end');
+define('_DB_USER_', 'u682739787_pk');
+define('_DB_PASSWD_', '123456g');
 define('_DB_PREFIX_', 'ps_');
 define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
